@@ -1,5 +1,6 @@
 # Phonebook
-- React + Hooks
+- React
+- Hooks / Context API
 - Auth with JWT
 - Express.js
 - MongoDB
