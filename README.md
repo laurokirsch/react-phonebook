@@ -1,2 +1,5 @@
-# react-contact-keeper
-Contact Keeper using MERN
+# Phonebook
+- React + Hooks
+- Auth with JWT
+- Express.js
+- MongoDB
